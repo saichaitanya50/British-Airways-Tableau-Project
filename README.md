@@ -30,3 +30,7 @@ Includes a side-by-side bar chart showing the number of reviews for each aircraf
 **Sheet 5: Integrated Dashboard**
 Integrates all sheets into a single, cohesive dashboard.
 Provides a user-friendly interface with all metrics and parameters easily accessible.
+
+
+<img width="900" alt="image" src="https://github.com/saichaitanya50/British-Airways-Tableau-Project/assets/82650096/77914bb8-ed08-4bdf-a63e-2448ba995fb1">
+
